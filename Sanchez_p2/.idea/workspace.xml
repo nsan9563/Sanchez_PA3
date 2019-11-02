@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b18a546-20a2-4c94-9cc3-1652fecf14f1" name="Default Changelist" comment="" />
+    <list default="true" id="5f9b9b92-05e6-43bc-8f2e-4d798d4f68f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Sanchez_p1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sanchez_p1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sanchez_p1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sanchez_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/Sanchez_p1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Sanchez_p1/Sanchez_p1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/out/production/Sanchez_p1/com/company/RandomNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sanchez_p1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sanchez_p2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sanchez_p2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sanchez_p2/META-INF/Sanchez_p2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Sanchez_p2/SavingsAccount/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SNkk7ga4DU0xPHrE87x4r3qZaY" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T2jnQF0piz3NqHg5eByqOJnnRs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -22,18 +58,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="SavingsAccount" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SavingsAccount.SavingsAccount" />
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="Sanchez_p2" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SavingsAccount" />
+        <item itemvalue="Application.Application" />
       </list>
     </recent_temporary>
   </component>
@@ -42,12 +76,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3b18a546-20a2-4c94-9cc3-1652fecf14f1" name="Default Changelist" comment="" />
-      <created>1571411581122</created>
+      <changelist id="5f9b9b92-05e6-43bc-8f2e-4d798d4f68f9" name="Default Changelist" comment="" />
+      <created>1572665250328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571411581122</updated>
+      <updated>1572665250328</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
